@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Nguyen Thi A",
+      "email": "nguyenthia@gmail.com",
+      "password": "nguyenthia",
+      "token": ""
+    },
+    {
+      "id": 2,
+      "fullName": "Do Thi B",
+      "email": "dothib@gmail.com",
+      "password": "dothib",
+      "token": ""
+    },
+    {
+      "id": 3,
+      "fullName": "Ngo Van C",
+      "email": "ngovanc@gmail.com",
+      "password": "ngovanc",
+      "token": ""
+    },
+    {
+      "id": 4,
+      "fullName": "Le Van D",
+      "email": "levand@gmail.com",
+      "password": "levand",
+      "token": ""
+    },
+    {
+      "id": 5,
+      "fullName": "Nguyen Thi E",
+      "email": "nguyenthie@gmail.com",
+      "password": "nguyenthie",
+      "token": ""
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "name": "HTML5"
+    },
+    {
+      "id": 2,
+      "name": "CSS3"
+    },
+    {
+      "id": 3,
+      "name": "Javascript"
+    },
+    {
+      "id": 4,
+      "name": "ReactJS"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1, 
+      "topics": 1,
+      "question": "HTML là viết tắt của ...",
+      "answers": [
+        "Hyperlinks and Text Markup Languge",
+        "Home Tool Markup Languge",
+        "Hyper Text Markup Languge"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}
